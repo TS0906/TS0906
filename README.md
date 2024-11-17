@@ -3,7 +3,7 @@
 </p> 
 <h3 align="center"> ♥️<a href="https://www.instagram.com/lht.0906/">Instagram</a>♥️ </h3>  
 
-![Profile View](https://visitcount.itsvg.in/api?id=TS0906&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile View](https://visitcount.itsvg.in/api?id=TS0906&icon=0&color=0)
 
 
 ### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"> My GitHub Analytics </h2> 
@@ -13,7 +13,7 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TS0906&theme=radical&hide_border=false" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TS0906&theme=radical&hide_border=false&include_all_commits=false&count_private=true@themetokyonight" />
     <br></br><br></br>
-    <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TS0906&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+    <img height="400em" src="https://github-readme-activity-graph.vercel.app/graph?username=TS0906"/>
   </a>
 </div>
 
