@@ -3,7 +3,7 @@
 </p> 
 <h3 align="center"> ♥️<a href="https://www.instagram.com/lht.0906/">Instagram</a>♥️ </h3>  
 
-![Profile View](https://komarev.com/ghpvc/?username=Youknow2509&style=flat-square)
+![Profile View](https://visitcount.itsvg.in/api?id=TS0906&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"> My GitHub Analytics </h2> 
