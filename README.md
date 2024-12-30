@@ -6,9 +6,7 @@
 
 <h3 align="center">♥️<a href="https://www.instagram.com/lht.0906/">Instagram</a>♥️</h3>  
 
-<div align="center">
-  ![Profile View](https://komarev.com/ghpvc/?username=TS0906&style=flat-square)
-</div>
+![Profile View](https://komarev.com/ghpvc/?username=TS0906&style=flat-square)
 
 ---
 
